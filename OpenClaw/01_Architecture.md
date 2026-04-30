@@ -2,7 +2,7 @@
 
 ## High-Level Summary
 
-OpenClaw is a self-hosted personal AI assistant gateway that connects multiple messaging platforms (WhatsApp, Telegram, Discord, iMessage, Slack, and 20+ others) to AI coding agents. The architecture follows a modular monorepo structure using pnpm workspaces, with TypeScript as the primary language. The system provides a Gateway as its control plane, companion apps for macOS/iOS/Android, voice interaction capabilities, and a live Canvas for visual workspace collaboration.
+OpenClaw is a self-hosted personal AI assistant gateway that connects multiple messaging platforms (WhatsApp, Telegram, Discord, iMessage, Slack, and 20+ others) to AI coding agents. The architecture follows a **modular monorepo structure** using pnpm workspaces, with TypeScript as the primary language. The system provides a Gateway as its control plane, companion apps for macOS/iOS/Android, voice interaction capabilities, and a live Canvas for visual workspace collaboration.
 
 ## Core Architectural Components
 

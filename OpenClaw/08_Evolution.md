@@ -16,13 +16,13 @@ OpenClaw began as a personal project to connect AI coding assistants to messagin
 
 ### Evolution Timeline
 
-| Version | Major Features |
-|---------|----------------|
-| 0.1.0 | Basic WhatsApp/Telegram gateway |
-| 0.5.0 | Multi-channel support |
-| 1.0.0 | Plugin system, skill framework |
-| 2.0.0 | Gateway, Control UI |
-| 3.0.0 | Mobile apps, voice support |
+| Version | Major Features                    |
+| ------- | --------------------------------- |
+| 0.1.0   | Basic WhatsApp/Telegram gateway   |
+| 0.5.0   | Multi-channel support             |
+| 1.0.0   | Plugin system, skill framework    |
+| 2.0.0   | Gateway, Control UI               |
+| 3.0.0   | Mobile apps, voice support        |
 | Current | Multi-agent, Canvas, 20+ channels |
 
 ### Key Milestones
@@ -78,14 +78,15 @@ The project has designated maintainers for:
 
 ### Contribution Areas
 
-| Area | Description |
-|------|-------------|
-| Core | Gateway, runtime, core features |
-| Extensions | Platform integrations |
-| Skills | Tool capabilities |
-| UI | Web UI, mobile apps |
-| Docs | Documentation |
-| Community | Support, feedback |
+| Area       | Description                     |
+| ---------- | ------------------------------- |
+| Core       | Gateway, runtime, core features |
+| Extensions | Platform integrations           |
+| Skills     | Tool capabilities               |
+| UI         | Web UI, mobile apps             |
+| Docs       | Documentation                   |
+| Community  | Support, feedback               |
+|            |                                 |
 
 ### Development Workflow
 

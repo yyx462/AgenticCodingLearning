@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "3f56890686359019",
+    "id": "b720467f93434ce8",
     "type": "split",
     "children": [
       {
-        "id": "016add968b2b6815",
+        "id": "2a056eec2009067b",
         "type": "tabs",
         "children": [
           {
-            "id": "5ad50808d8f1d4c8",
+            "id": "8244f32310319189",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenClaw/01_Architecture.md",
+                "file": "CBEC_跨境电商全链路痛点与权衡.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CBEC_跨境电商全链路痛点与权衡"
+            }
+          },
+          {
+            "id": "27fa7e00e951e3ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CBEC_跨境电商全链路痛点与权衡.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Architecture"
+              "title": "CBEC_跨境电商全链路痛点与权衡"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d0953ea0701734c6",
+    "id": "bc73d9296dffe5e5",
     "type": "split",
     "children": [
       {
-        "id": "13d39218692cba5d",
+        "id": "b4428777d322e0aa",
         "type": "tabs",
         "children": [
           {
-            "id": "bc8771e43e68531b",
+            "id": "97f580a10d6c49c8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +59,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
-            "id": "51b7c8aa611d8db4",
+            "id": "e46efe2ae4c8fcc8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,17 +76,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
-            "id": "3011feb7b159ec93",
+            "id": "60bf3341c486086c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "a5e04b888d0b8f41",
+    "id": "b4efadfc592e4150",
     "type": "split",
     "children": [
       {
-        "id": "d9a106ad23114dbb",
+        "id": "eaf44807c1263517",
         "type": "tabs",
         "children": [
           {
-            "id": "79236c92f641b469",
+            "id": "6f34e73c8afad8aa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenClaw/Concept_Map.md",
+                "file": "Agentic Engineering Memo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Concept_Map 的反向链接列表"
+              "title": "Backlinks for Agentic Engineering Memo"
             }
           },
           {
-            "id": "44295a2bc3efca12",
+            "id": "6b38cb931d7ef4aa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenClaw/Concept_Map.md",
+                "file": "Agentic Engineering Memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Concept_Map 的出链列表"
+              "title": "Outgoing links from Agentic Engineering Memo"
             }
           },
           {
-            "id": "167e097a81214880",
+            "id": "6342e2570959852e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,11 +148,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
-            "id": "6545f170e6cc85d3",
+            "id": "05953f1ccb15086f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,22 +162,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "title": "All properties"
             }
           },
           {
-            "id": "1d333e114875c462",
+            "id": "1223c78eefb0d310",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenClaw/Concept_Map.md",
+                "file": "Agentic Engineering Memo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Concept_Map 的大纲"
+              "title": "Outline of Agentic Engineering Memo"
             }
           }
         ]
@@ -174,26 +189,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "bc8771e43e68531b",
+  "active": "27fa7e00e951e3ae",
   "lastOpenFiles": [
-    "AmazonBSR/欢迎.md",
-    "AmazonBSR",
-    "OpenClaw/08_Evolution.md",
-    "OpenClaw/01_Architecture.md",
-    "OpenClaw/Concept_Map.md",
-    "OpenClaw/Index.md",
-    "OpenClaw/03_Extensions.md",
-    "OpenClaw/04_Skills.md",
-    "OpenClaw/06_UI_Layer.md",
-    "OpenClaw/05_Core_Runtime.md"
+    "CBEC_跨境电商全链路痛点与权衡.md",
+    "Agentic Engineering Memo.md",
+    "POP模式.md",
+    "PPC广告.md",
+    "全托管模式.md",
+    "知识产权IP.md",
+    "小米_生态出海.md",
+    "退货欺诈.md",
+    "透明计划.md",
+    "刷单与恶意差评.md",
+    "韶音_科技出海.md",
+    "清算库存.md",
+    "零售套利.md",
+    "康师傅_快消品出海.md",
+    "海尔_白电出海.md",
+    "跟卖_Hijacking.md",
+    "分销商.md",
+    "恶意抢注.md",
+    "恶意点击.md",
+    "代理商.md",
+    "代工厂尾货.md",
+    "串货.md",
+    "变体合并劫持.md",
+    "VAT.md",
+    "TP代运营.md",
+    "ROI.md"
   ]
 }

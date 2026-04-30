@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "3f56890686359019",
+    "id": "d4cb4b63e6fbf56a",
     "type": "split",
     "children": [
       {
-        "id": "016add968b2b6815",
+        "id": "bf8a83fc9182c3f3",
         "type": "tabs",
         "children": [
           {
-            "id": "5ad50808d8f1d4c8",
+            "id": "2b1135762dcba85c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenClaw/01_Architecture.md",
+                "file": "Amazon_2026_FBA_Fee_Changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Architecture"
+              "title": "Amazon_2026_FBA_Fee_Changes"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d0953ea0701734c6",
+    "id": "4c88addfb4b0502c",
     "type": "split",
     "children": [
       {
-        "id": "13d39218692cba5d",
+        "id": "53202ac01c6ff508",
         "type": "tabs",
         "children": [
           {
-            "id": "bc8771e43e68531b",
+            "id": "37cc5a974b0253dc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
-            "id": "51b7c8aa611d8db4",
+            "id": "747760776339480b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,17 +61,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
-            "id": "3011feb7b159ec93",
+            "id": "f5df0cc79f29e75e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "a5e04b888d0b8f41",
+    "id": "19c196a186892fc3",
     "type": "split",
     "children": [
       {
-        "id": "d9a106ad23114dbb",
+        "id": "069aeff2327be63e",
         "type": "tabs",
         "children": [
           {
-            "id": "79236c92f641b469",
+            "id": "322e67ceafa55dc5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenClaw/Concept_Map.md",
+                "file": "Amazon_2026_FBA_Fee_Changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Concept_Map 的反向链接列表"
+              "title": "Backlinks for Amazon_2026_FBA_Fee_Changes"
             }
           },
           {
-            "id": "44295a2bc3efca12",
+            "id": "f7298259b833c645",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenClaw/Concept_Map.md",
+                "file": "Amazon_2026_FBA_Fee_Changes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Concept_Map 的出链列表"
+              "title": "Outgoing links from Amazon_2026_FBA_Fee_Changes"
             }
           },
           {
-            "id": "167e097a81214880",
+            "id": "5f61564d7a802421",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,11 +133,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
-            "id": "6545f170e6cc85d3",
+            "id": "c7761914f52fadb0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,22 +147,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "title": "All properties"
             }
           },
           {
-            "id": "1d333e114875c462",
+            "id": "06b54f4bd3a5cca7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenClaw/Concept_Map.md",
+                "file": "Amazon_2026_FBA_Fee_Changes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Concept_Map 的大纲"
+              "title": "Outline of Amazon_2026_FBA_Fee_Changes"
             }
           }
         ]
@@ -174,26 +174,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "bc8771e43e68531b",
+  "active": "2b1135762dcba85c",
   "lastOpenFiles": [
-    "AmazonBSR/欢迎.md",
-    "AmazonBSR",
-    "OpenClaw/08_Evolution.md",
-    "OpenClaw/01_Architecture.md",
-    "OpenClaw/Concept_Map.md",
-    "OpenClaw/Index.md",
-    "OpenClaw/03_Extensions.md",
-    "OpenClaw/04_Skills.md",
-    "OpenClaw/06_UI_Layer.md",
-    "OpenClaw/05_Core_Runtime.md"
+    "Inbound Placement Fee.md",
+    "Inbound_Placement_Fee.md",
+    "Amazon_2026_FBA_Fee_Changes.md",
+    "FNSKU.md",
+    "SIPP.md",
+    "Amazon_2026_FBA_Fee_Changes.md.tmp.1226078.1776243508818",
+    "Amazon_2026_FBA_Fee_Changes.md.tmp.1226078.1776243499695",
+    "Amazon_2026_FBA_Fee_Changes.md.tmp.1226078.1776243491211",
+    "Amazon_2026_FBA_Fee_Changes.md.tmp.1226078.1776243487521",
+    "Amazon_2026_FBA_Fee_Changes.md.tmp.1226078.1776243484019",
+    "Amazon_2026_FBA_Fee_Changes.md.tmp.1226078.1776243478778",
+    "Amazon_2026_FBA_Fee_Changes.md.tmp.1226078.1776243476046",
+    "Amazon_2026_FBA_Fee_Changes.md.tmp.1226078.1776243468871",
+    "Aged_Inventory_Surcharges.md",
+    "Aged_Inventory_Surcharges.md.tmp.1226078.1776243453200",
+    "FNSKU.md.tmp.1226078.1776243433150",
+    "Amazon_AWD.md",
+    "3PL.md",
+    "inbound placement splits.md",
+    "Welcome.md"
   ]
 }

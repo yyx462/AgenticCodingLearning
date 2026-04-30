@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "3f56890686359019",
+    "id": "ff3681fe903b2c40",
     "type": "split",
     "children": [
       {
-        "id": "016add968b2b6815",
+        "id": "8d331c137ba4cd22",
         "type": "tabs",
         "children": [
           {
-            "id": "5ad50808d8f1d4c8",
+            "id": "439711141f689216",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenClaw/01_Architecture.md",
+                "file": "tk notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Architecture"
+              "title": "tk notes"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d0953ea0701734c6",
+    "id": "d03414729744b779",
     "type": "split",
     "children": [
       {
-        "id": "13d39218692cba5d",
+        "id": "fd812af3654b1d83",
         "type": "tabs",
         "children": [
           {
-            "id": "bc8771e43e68531b",
+            "id": "56e80a5e4f439891",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
-            "id": "51b7c8aa611d8db4",
+            "id": "5837a52c20774dbb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,40 +61,41 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
-            "id": "3011feb7b159ec93",
+            "id": "91d2cf07d458ca88",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "a5e04b888d0b8f41",
+    "id": "d9b32361f51ce346",
     "type": "split",
     "children": [
       {
-        "id": "d9a106ad23114dbb",
+        "id": "f1f4931e72a32368",
         "type": "tabs",
         "children": [
           {
-            "id": "79236c92f641b469",
+            "id": "b96aba10d3fa408c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenClaw/Concept_Map.md",
+                "file": "tk notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Concept_Map 的反向链接列表"
+              "title": "Backlinks for tk notes"
             }
           },
           {
-            "id": "44295a2bc3efca12",
+            "id": "cacb36c76d29125f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenClaw/Concept_Map.md",
+                "file": "tk notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Concept_Map 的出链列表"
+              "title": "Outgoing links from tk notes"
             }
           },
           {
-            "id": "167e097a81214880",
+            "id": "36f7bd68b571ab53",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,11 +134,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
-            "id": "6545f170e6cc85d3",
+            "id": "c277765f4434afd5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,22 +148,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "title": "All properties"
             }
           },
           {
-            "id": "1d333e114875c462",
+            "id": "a52af5e5b8d40283",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenClaw/Concept_Map.md",
+                "file": "tk notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Concept_Map 的大纲"
+              "title": "Outline of tk notes"
             }
           }
         ]
@@ -174,26 +175,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "bc8771e43e68531b",
+  "active": "439711141f689216",
   "lastOpenFiles": [
-    "AmazonBSR/欢迎.md",
-    "AmazonBSR",
-    "OpenClaw/08_Evolution.md",
-    "OpenClaw/01_Architecture.md",
-    "OpenClaw/Concept_Map.md",
-    "OpenClaw/Index.md",
-    "OpenClaw/03_Extensions.md",
-    "OpenClaw/04_Skills.md",
-    "OpenClaw/06_UI_Layer.md",
-    "OpenClaw/05_Core_Runtime.md"
+    "tk notes.md"
   ]
 }
